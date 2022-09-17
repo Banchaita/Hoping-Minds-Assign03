@@ -7,6 +7,9 @@ body {
     justify-content: center;
     margin-top: 10rem;
   }
+  h1{
+    text-align: center;
+  }
   /* Stripe  */
   .stripe {
     width: 350px;
@@ -32,4 +35,31 @@ body {
     height: 40px;
     width: 40px;
   }
+
+
+  /* Romanian Flag */
+  .flag{
+    justify-content: center;
+    display: flex;
+    margin-top: 10rem;
+    align-items: center;
+  }
+  
+
+  .blue {
+    background-color: #214D8A;
+    width: 50vh;
+    height: 50vh;
+}
+.yellow{
+  background: #E8C643;
+  width: 50vh;
+  height: 50vh;
+}
+.red{
+  background: #AC1A09;
+  width: 50vh;
+  height: 50vh;
+}
+  
  
